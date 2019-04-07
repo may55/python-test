@@ -1,4 +1,7 @@
 # python-test
+## Python python-test(Part-1 and Part-2).ipynb is the file with part 1 and part 2 of task
+## I am still working on Part-3 as it is taking time to tune the model
+
 Assesment task for Data Analytics Intern at RedCarpetUp
 
 Create a repository on github named "python-test" and send us the link. you will upload your work to this repo.
